@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/FranJ18/product-card-component](https://github.com/FranJ18/product-card-component)
-- Live Site URL: [https://franproductcomponent.netlify.app/](https://franproductcomponent.netlify.app/)
+- Solution URL: [https://github.com/FranJ18/qr-code-component](https://github.com/FranJ18/qr-code-component)
+- Live Site URL: [https://fran-qr-component.netlify.app/](https://fran-qr-component.netlify.app/)
 
 
 ### Built with
